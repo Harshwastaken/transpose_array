@@ -17,7 +17,7 @@ int main()
 			cin>>a[i][j];
 		}
 	}
-	cout<<"array "<<endl;
+	cout<<"matrix-  "<<endl;
 	for(i=0;i<n;i++)
 	{
 		for(j=0;j<n;j++)
@@ -36,7 +36,7 @@ int main()
 		}
 	}
 	
-	cout<<"transpose"<<endl;
+	cout<<"transpose- "<<endl;
 	for(i=0;i<n;i++)
 	{
 		for(j=0;j<n;j++)
