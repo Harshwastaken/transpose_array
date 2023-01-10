@@ -5,7 +5,7 @@ void swap();
 int main()
 {
 	int n;
-	cout<<	"enter the size of square matrix|     ";
+	cout<<	"enter the size of square matrix| ";
  cin>>n;
 	int a[n][n],i,j,c=0;
 
